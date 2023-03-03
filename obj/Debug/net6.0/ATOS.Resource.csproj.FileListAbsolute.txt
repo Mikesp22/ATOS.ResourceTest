@@ -1,0 +1,12 @@
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\bin\Debug\net6.0\ATOS.Resource.deps.json
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\bin\Debug\net6.0\ATOS.Resource.dll
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\bin\Debug\net6.0\ATOS.Resource.pdb
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ATOS.Resource.csproj.AssemblyReference.cache
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ATOS.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ATOS.Resource.AssemblyInfoInputs.cache
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ATOS.Resource.AssemblyInfo.cs
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ATOS.Resource.csproj.CoreCompileInputs.cache
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ATOS.Resource.dll
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\refint\ATOS.Resource.dll
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ATOS.Resource.pdb
+C:\Users\A583105\source\repos\Upgrade\Nuget\ATOS.Resource\obj\Debug\net6.0\ref\ATOS.Resource.dll
